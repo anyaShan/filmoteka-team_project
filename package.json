@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "filmoteka-team_project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ProtsyukPrits.github.io/movie-team-project",
+  "homepage": "https://anyaShan.github.io/movie-team-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /movie-team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/anyaShan/filmoteka-team_project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/anyaShan/filmoteka-team_project/issues"
   },
   "dependencies": {
     "axios": "^0.27.2",
